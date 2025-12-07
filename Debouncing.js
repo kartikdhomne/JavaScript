@@ -9,8 +9,6 @@
 // 🟢 Debouncing
 // Debouncing is a optimization technique used to limit how many times a function runs — especially when something happens repeatedly in a short time.
 
-//
-
 // ➡️ Real Life Example
 
 // Imagine you go to a lift(elevator) and press the button 10 times quickly —
